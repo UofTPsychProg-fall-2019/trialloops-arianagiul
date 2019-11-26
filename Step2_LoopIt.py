@@ -17,7 +17,7 @@ import ctypes
 from psychopy import visual, core, event, gui, logging
 
 #experiment
-expName = 'WeirdScenes'
+expName = 'WeirdImages'
 fileName = ''
 while True:
     expInfo = {'subjNum':''}
