@@ -14,7 +14,7 @@ import pandas as pd
 import os, sys
 from psychopy import visual, core, event, gui, logging
 
-# open a white full screen window (making a second window for the beginning instructions)
+# open a white full screen window 
 win = visual.Window(fullscr=True, allowGUI=False, color='white', unit='height') 
 
 # uncomment if you use a clock. Optional because we didn't cover timing this week, 
